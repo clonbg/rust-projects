@@ -28,3 +28,18 @@ cargo build - compila
 cargo run - compila y ejecuta
 cargo check - comprueba
 ```
+
+# Por donde voy
+
+Por el punto 2
+Allowing Multiple Guesses with Looping
+
+
+
+# Errores y soluciones
+
+- Blocking waiting for file lock on package cache
+
+```
+rm -rf ~/.cargo/.package-cache
+```
