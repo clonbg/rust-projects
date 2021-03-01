@@ -18,8 +18,11 @@ fn main() {
             .read_line(&mut numero)
             .expect("Ha fallado la lectura del numero");
 
-        // parsea a integer
-        let numero: u32 = numero.trim().parse().expect("Please type a number!");
+        // parsea a integer y si falla repite
+        let numero: u32 = match numero.trim().parse() {
+            Ok(num) => num,
+            Err(_) => continue,
+        };
 
         println!("Tu número es: {}",numero);
 
