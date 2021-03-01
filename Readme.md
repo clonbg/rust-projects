@@ -31,8 +31,7 @@ cargo check - comprueba
 
 # Por donde voy
 
-file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch03-00-common-programming-concepts.html#common-programming-concepts
-
+file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch03-01-variables-and-mutability.html#shadowing
 
 
 # Errores y soluciones
