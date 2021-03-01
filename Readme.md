@@ -31,8 +31,7 @@ cargo check - comprueba
 
 # Por donde voy
 
-Por el punto 2
-Allowing Multiple Guesses with Looping
+file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch02-00-guessing-game-tutorial.html#handling-invalid-input
 
 
 
