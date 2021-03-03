@@ -31,7 +31,7 @@ cargo check - comprueba
 
 # Por donde voy
 
-file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch03-05-control-flow.html#repeating-code-with-loop
+file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch04-00-understanding-ownership.html#understanding-ownership
 
 
 # Errores y soluciones
