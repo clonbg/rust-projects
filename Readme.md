@@ -31,7 +31,7 @@ cargo check - comprueba
 
 # Por donde voy
 
-file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch04-02-references-and-borrowing.html#references-and-borrowing
+file:///home/clonbg/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/share/doc/rust/html/book/ch04-03-slices.html#the-slice-type
 
 
 # Errores y soluciones
